@@ -3,6 +3,8 @@ CKEditor 5 video feature
 
 [![npm version](https://badge.fury.io/js/%40visao%2Fckeditor5-video.svg)](https://www.npmjs.com/package/@visao/ckeditor5-video)
 
+My node version 16.20.2
+
 This package implements the video feature for CKEditor 5. The feature is introduced in a granular form implemented by a couple of plugins.
 It was strongly inspired from the ckeditor5-image package.
 
